@@ -1,2 +1,2 @@
-# ClickerConn
-This will be the repository for the ClickerConn website by Husky Developers
+# QenA
+This will be the repository for the QenA website by Husky Developers
