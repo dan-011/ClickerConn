@@ -5,3 +5,4 @@ Packages installed so far
     Supabase
         npm install @supabase/supabase-js
         npm install @supabase/ui
+        npm i dotenv
