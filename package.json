@@ -1,8 +1,28 @@
 {
-  "type": "module",
   "dependencies": {
-    "@supabase/supabase-js": "^2.1.1",
-    "@supabase/ui": "^0.36.5",
-    "dotenv": "^16.0.3"
+    "@supabase/supabase-js": "^2.1.1"
+  },
+  "name": "qena",
+  "description": "This will be the repository for the QenA website by Husky Developers",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-011/QenA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan-011/QenA/issues"
+  },
+  "homepage": "https://github.com/dan-011/QenA#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
   }
 }
